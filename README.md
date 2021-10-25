@@ -18,7 +18,7 @@
 
 </a>
 <p align="center">
-    Project of  🧚Amazone Alexa🪐 - යනු භාවිතය පහසු හා ලේසියෙන් සාදාගත හැකි Whatsapp රොබෝවෙකි. AMAZONE-Alexa යනු ලංකාවෙ පළවෙනි සිංහල whatsapp රොබෝව වේ..🇱🇰
+    Project of  🧚ebsparco🪐 - යනු භාවිතය පහසු හා ලේසියෙන් සාදාගත හැකි Whatsapp රොබෝවෙකි. AMAZONE-Alexa යනු ලංකාවෙ පළවෙනි සිංහල whatsapp රොබෝව වේ..🇱🇰
     <br>
         <a href="https://chat.whatsapp.com/GTgqgMTo7FoJ1GqdijshsX">Support Group</a> |
         <a href="https://Wa.me/+263712026851">ChethanaBro Whatsapp </a> |
@@ -56,22 +56,22 @@
 
 <p align="center">
   <a href="httsp://github.com/EbSparco00/ebsparco">
-    <img src="https://img.shields.io/github/repo-size/phaticusthiccy/WhatsAsenaDuplicated?color=purple&label=Repo%20Boyutu&style=plastic">
+    <img src="https://img.shields.io/github/repo-size/EbSparco00/ebsparco?color=purple&label=Repo%20Boyutu&style=plastic">
 
   </a>
-  <a href="https://github.com/phaticusthiccy/WhatsAsenaDuplicated/blob/master/LICENSE">
-    <img src="https://img.shields.io/github/license/phaticusthiccy/WhatsAsenaDuplicated?color=purple&label=License&style=plastic">
+  <a href="https://github.com/EbSparco00/ebsparco/blob/master/LICENSE">
+    <img src="https://img.shields.io/github/license/EbSparco00/ebsparco?color=purple&label=License&style=plastic">
 
   </a>
-  <a href="https://github.com/phaticusthiccy/WhatsAsenaDuplicated">
-    <img src="https://img.shields.io/github/languages/top/phaticusthiccy/WhatsAsenaDuplicated?color=purple&label=Javascript&style=plastic">
+  <a href="https://github.com/EbSparco00/ebsparco">
+    <img src="https://img.shields.io/github/languages/top/EbSparco00/ebsparco?color=purple&label=Javascript&style=plastic">
 
   </a>
-  <a href="https://github.com/phaticusthiccy">
+  <a href="https://github.com/EbSparco00">
     <img src="https://img.shields.io/static/v1?label=Author&message=Neotro%20X&color=purple&style=plastic">
 
   </a>
-  <a href="https://wa.me/94786598862">
+  <a href="https://wa.me/263712026851">
     <img src="https://img.shields.io/badge/Contact%20Me%20On%20Whatsapp-Teenuh%20AX%20-purple&style=plastic">
 
   </a>
@@ -84,7 +84,7 @@
 #### ඔබට පහසුවෙන්ම Repl.it මඟින් QR ගන්න පුලුවන්..පහල  බටනය භාවිත කරන්න
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@tenuh/NeotroWA-XQR?v=1)
 ```
-Amazone Alexa bot ගොඩනැගීමට ඔබට ජංගම දුරකථන 2 ක් අවශ්‍ය වේ!
+ebsparco bot ගොඩනැගීමට ඔබට ජංගම දුරකථන 2 ක් අවශ්‍ය වේ!
 ඔබ දෙවන උපාංගයෙන් bot ක්‍රියා කරනු ඇත. 
 ඔබ පළමු උපාංගය සමඟ පමණක් QR කේතය generate කරනු ඇත.
 පළමු උපාංගයෙන් ඔබට Amazone Bot install කිරීමට අවශ්‍යයි..
@@ -138,23 +138,23 @@ neotro-x  පිහිටුවීමෙන් ඔබ මෙම වගකීම�
 
 [![Chethana_Broh-TeenuhX](https://github.com/tenuh.png?size=100)](https://https://youtu.be/mcEeIspWOpY)
 
- ***ᴄʜᴇᴛʜᴀɴᴀ_ʙʀᴏ(Teenuh-X😈)***
+ ***ᴄʜᴇᴛʜᴀɴᴀ_ʙʀᴏ(EbSparco😈)***
 <a href="https://Wa.me/+263712026851">
     <img src="https://img.shields.io/badge/FindOn%20whatsapp-purple&style=plastic">
   
   </a>
 
-<a href="https://Wa.me/+14382551507">
+<a href="https://Wa.me/+263712026851">
     <img src="https://img.shields.io/badge/FindOn%20Whatsapp-purple&style=plastic">
   
   </a>
 
-<a href="https://Wa.me/+17722181933">
+<a href="https://Wa.me/+263712026851">
     <img src="https://img.shields.io/badge/FindOn%20Whatsapp-purple&style=plastic">
   
   </a>
 
-<a href="https://Wa.me/+17723534981">
+<a href="https://Wa.me/+263712026851">
     <img src="https://img.shields.io/badge/FindOn%20Whatsapp-purple&style=plastic">
   
   </a>
@@ -164,7 +164,7 @@ neotro-x  පිහිටුවීමෙන් ඔබ මෙම වගකීම�
 [![Find On Whatsapp ](https://img.shields.io/badge/Findon-whatsapp-red.svg)](https://Wa.me/+263712026851)
 
 
-### 🚀Amazone Alexa Team
+### 🚀ebsparco Team
 
 [![Find On Telegram ](https://img.shields.io/badge/Ramilka-Rodrigo-blue.svg)](https://t.me/ramiya_yt) [![Encuizer ](https://img.shields.io/badge/En-Cuizer-blue.svg)](https://Wa.me/+94725549179) [![Find On Whatsapp ](https://img.shields.io/badge/Chamee-blue.svg)](https://Wa.me/)
 [![Find On Whatsapp ](https://img.shields.io/badge/Hazel-Safron-blue.svg)](https://Wa.me/) [![Find On Whatsapp ](https://img.shields.io/badge/Rashid-Riyaz-blue.svg)](https://Wa.me/+17723534981) [![Find On Whatsapp ](https://img.shields.io/badge/mr.freez-blue.svg)](https://Wa.me/)
@@ -173,7 +173,7 @@ neotro-x  පිහිටුවීමෙන් ඔබ මෙම වගකීම�
 [![Find On Whatsapp ](https://img.shields.io/badge/Ganster-blue.svg)](https://Wa.me/)
 ### 📑Amazon Support Groups
 
-[![Find On Whatsapp ](https://img.shields.io/badge/Amazon-Plugins-red.svg)](https://chat.whatsapp.com/JJs2iwfF0VKL3IWrIyr7AT)
+[![Find On Whatsapp ](https://img.shields.io/badge/Amazon-Plugins-red.svg)](https://chat.whatsapp.com/JbN3wyWlksx970YxVbcLXr)
 [![Find On Whatsapp ](https://img.shields.io/badge/Amazone-Support01-blue.svg)](https://chat.whatsapp.com/GTgqgMTo7FoJ1GqdijshsX)
 [![Find On Whatsapp ](https://img.shields.io/badge/Amazone-Support02-blue.svg)](https://chat.whatsapp.com/K4QouGNrNcm1iARgDaYiLj)
 [![Find On Whatsapp ](https://img.shields.io/badge/Amazone-Support03-blue.svg)](https://chat.whatsapp.com/DSX2aegJpVRG3cWIUlBa48)
