@@ -1,3 +1,22 @@
+Skip to content
+EbSparco00
+/
+Hashzi-X
+Public
+forked from xneon2/Hashzi-X
+Code
+Pull requests
+Actions
+Projects
+Wiki
+Security
+Insights
+Settings
+Hashzi-X/bot.js
+@EbSparco00
+EbSparco00 Update bot.js
+ 2 contributors
+463 lines (426 sloc)  28.3 KB
 /* Copyright (C) 2021 TENUX-Neotro.
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.
@@ -284,9 +303,9 @@ ${chalk.blue.italic('👩‍🦰 Connecting to WhatsApp...▶')}`);
          
         while (getGMTh == 19 && getGMTm == 1) {
             var announce = ''
-            if (config.LANG == 'EN') announce = '📢◉◉👩‍🦰ᴀᴍᴀᴢᴏɴᴇ ᴀʟᴇxᴀ◉◉ \n👾Announcement SYSTEM 🔘'
-            if (config.LANG == 'SI') announce = '📢◉◉👩‍🦰ᴀᴍᴀᴢᴏɴᴇ ᴀʟᴇxᴀ◉◉ \n👾නිවේදන පද්ධතිය 🔘'
-            if (config.LANG == 'ID') announce = '📢◉◉👩‍🦰ᴀᴍᴀᴢᴏɴᴇ ᴀʟᴇxᴀ◉◉ \n👾Announcement System 🔘'
+            if (config.LANG == 'EN') announce = '📢◉◉👩‍🦰ebsparco◉◉ \n👾Announcement SYSTEM 🔘'
+            if (config.LANG == 'SI') announce = '📢◉◉👩‍🦰ebsparco◉◉ \n👾නිවේදන පද්ධතිය 🔘'
+            if (config.LANG == 'ID') announce = '📢◉◉👩‍🦰ebsparco◉◉ \n👾Announcement System 🔘'
             
             let video = 'https://imgur.com/u9LLLGV.mp4'
             let image = 'https://telegra.ph/file/e8f3e419b3dafe9fe8153.jpg'
@@ -461,3 +480,16 @@ ${chalk.blue.italic('👩‍🦰 Connecting to WhatsApp...▶')}`);
 }
 
 whatsAsena();
+© 2021 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
+Loading complete
