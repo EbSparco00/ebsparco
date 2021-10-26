@@ -8,7 +8,7 @@
 
 </a>
 
-![logo](https://fzstream.techwizardent.com/90054)
+![logo](https://github.com/EbSparco00/Hashzi-X/blob/main/IMG_20210919_075304.jpg)
 <h1 align="center"><b> 🧚𝗔𝗠𝗔𝗭𝗢𝗡𝗘 𝗔𝗟𝗘𝗫𝗔 (ᴠɪᴘ) </b></h1>
 
 </a>
